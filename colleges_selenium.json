@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "name": "Princeton University",
+    "usnews_link": "https://www.usnews.com/best-colleges/princeton-university-2627",
+    "school_website": "http://www.princeton.edu/"
+  },
+  {
+    "rank": 2,
+    "name": "Massachusetts Institute of Technology",
+    "usnews_link": "https://www.usnews.com/best-colleges/massachusetts-institute-of-technology-2178",
+    "school_website": "http://web.mit.edu/"
+  },
+  {
+    "rank": 3,
+    "name": "Harvard University",
+    "usnews_link": "https://www.usnews.com/best-colleges/harvard-university-2155",
+    "school_website": "http://www.harvard.edu/"
+  },
+  {
+    "rank": 4,
+    "name": "Stanford University",
+    "usnews_link": "https://www.usnews.com/best-colleges/stanford-university-1305",
+    "school_website": "http://www.stanford.edu/"
+  },
+  {
+    "rank": 5,
+    "name": "Yale University",
+    "usnews_link": "https://www.usnews.com/best-colleges/yale-university-1426",
+    "school_website": "https://www.yale.edu/"
+  },
+  {
+    "rank": 6,
+    "name": "University of Chicago",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-chicago-1774",
+    "school_website": "http://www.uchicago.edu/"
+  },
+  {
+    "rank": 7,
+    "name": "Duke University",
+    "usnews_link": "https://www.usnews.com/best-colleges/duke-university-2920",
+    "school_website": "http://www.duke.edu/"
+  },
+  {
+    "rank": 8,
+    "name": "Johns Hopkins University",
+    "usnews_link": "https://www.usnews.com/best-colleges/jhu-2077",
+    "school_website": "http://www.jhu.edu/"
+  },
+  {
+    "rank": 9,
+    "name": "Northwestern University",
+    "usnews_link": "https://www.usnews.com/best-colleges/northwestern-university-1739",
+    "school_website": "http://www.northwestern.edu/"
+  },
+  {
+    "rank": 10,
+    "name": "University of Pennsylvania",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-pennsylvania-3378",
+    "school_website": "http://www.upenn.edu/"
+  },
+  {
+    "rank": 11,
+    "name": "California Institute of Technology",
+    "usnews_link": "https://www.usnews.com/best-colleges/california-institute-of-technology-1131",
+    "school_website": "https://www.caltech.edu/"
+  },
+  {
+    "rank": 12,
+    "name": "Cornell University",
+    "usnews_link": "https://www.usnews.com/best-colleges/cornell-university-2711",
+    "school_website": "http://www.cornell.edu/"
+  },
+  {
+    "rank": 13,
+    "name": "Brown University",
+    "usnews_link": "https://www.usnews.com/best-colleges/brown-university-3401",
+    "school_website": "https://www.brown.edu/"
+  },
+  {
+    "rank": 14,
+    "name": "Dartmouth College",
+    "usnews_link": "https://www.usnews.com/best-colleges/dartmouth-college-2573",
+    "school_website": "http://www.dartmouth.edu/"
+  },
+  {
+    "rank": 15,
+    "name": "Columbia University",
+    "usnews_link": "https://www.usnews.com/best-colleges/columbia-university-2707",
+    "school_website": "http://www.columbia.edu/"
+  },
+  {
+    "rank": 16,
+    "name": "University of California, Berkeley",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-california-berkeley-1312",
+    "school_website": "https://www.berkeley.edu/"
+  },
+  {
+    "rank": 17,
+    "name": "Rice University",
+    "usnews_link": "https://www.usnews.com/best-colleges/rice-3604",
+    "school_website": "http://www.rice.edu/"
+  },
+  {
+    "rank": 18,
+    "name": "University of California, Los Angeles",
+    "usnews_link": "https://www.usnews.com/best-colleges/ucla-1315",
+    "school_website": "http://www.ucla.edu/"
+  },
+  {
+    "rank": 19,
+    "name": "Vanderbilt University",
+    "usnews_link": "https://www.usnews.com/best-colleges/vanderbilt-3535",
+    "school_website": "http://www.vanderbilt.edu/"
+  },
+  {
+    "rank": 20,
+    "name": "Carnegie Mellon University",
+    "usnews_link": "https://www.usnews.com/best-colleges/carnegie-mellon-university-3242",
+    "school_website": "http://www.cmu.edu/"
+  },
+  {
+    "rank": 21,
+    "name": "University of Michigan--Ann Arbor",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092",
+    "school_website": "https://umich.edu/"
+  },
+  {
+    "rank": 22,
+    "name": "University of Notre Dame",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-notre-dame-1840",
+    "school_website": "http://www.nd.edu/"
+  },
+  {
+    "rank": 23,
+    "name": "Washington University in St. Louis",
+    "usnews_link": "https://www.usnews.com/best-colleges/washington-university-in-st-louis-2520",
+    "school_website": "https://washu.edu/"
+  },
+  {
+    "rank": 24,
+    "name": "Emory University",
+    "usnews_link": "https://www.usnews.com/best-colleges/emory-university-1564",
+    "school_website": "http://www.emory.edu/"
+  },
+  {
+    "rank": 25,
+    "name": "Georgetown University",
+    "usnews_link": "https://www.usnews.com/best-colleges/georgetown-university-1445",
+    "school_website": "http://www.georgetown.edu/"
+  },
+  {
+    "rank": 26,
+    "name": "University of North Carolina--Chapel Hill",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-north-carolina-chapel-hill-2974",
+    "school_website": "Error"
+  },
+  {
+    "rank": 27,
+    "name": "University of Virginia",
+    "usnews_link": "https://www.usnews.com/best-colleges/uva-6968",
+    "school_website": "http://www.virginia.edu/"
+  },
+  {
+    "rank": 28,
+    "name": "University of Southern California",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-southern-california-1328",
+    "school_website": "Not found"
+  },
+  {
+    "rank": 29,
+    "name": "University of California San Diego",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-california-san-diego-1317",
+    "school_website": "http://www.ucsd.edu/"
+  },
+  {
+    "rank": 30,
+    "name": "University of Florida",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-florida-1535",
+    "school_website": "https://www.ufl.edu/"
+  },
+  {
+    "rank": 31,
+    "name": "University of California, Davis",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-california-davis-1313",
+    "school_website": "http://www.ucdavis.edu/"
+  },
+  {
+    "rank": 32,
+    "name": "University of California, Irvine",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-california-irvine-1314",
+    "school_website": "http://www.uci.edu/"
+  },
+  {
+    "rank": 33,
+    "name": "Boston College",
+    "usnews_link": "https://www.usnews.com/best-colleges/boston-college-2128",
+    "school_website": "http://www.bc.edu/"
+  },
+  {
+    "rank": 34,
+    "name": "Tufts University",
+    "usnews_link": "https://www.usnews.com/best-colleges/tufts-university-2219",
+    "school_website": "https://www.tufts.edu/"
+  },
+  {
+    "rank": 35,
+    "name": "University of Illinois Urbana-Champaign",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-illinois-urbanachampaign-1775",
+    "school_website": "https://illinois.edu/"
+  },
+  {
+    "rank": 36,
+    "name": "University of Wisconsin--Madison",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-wisconsin-3895",
+    "school_website": "http://www.wisc.edu/"
+  },
+  {
+    "rank": 37,
+    "name": "University of California, Santa Barbara",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-california-santa-barbara-1320",
+    "school_website": "https://www.ucsb.edu/"
+  },
+  {
+    "rank": 38,
+    "name": "The University of Texas--Austin",
+    "usnews_link": "https://www.usnews.com/best-colleges/the-university-of-texas-austin-3658",
+    "school_website": "Error"
+  },
+  {
+    "rank": 39,
+    "name": "Georgia Institute of Technology",
+    "usnews_link": "https://www.usnews.com/best-colleges/georgia-institute-of-technology-1569",
+    "school_website": "Not found"
+  },
+  {
+    "rank": 40,
+    "name": "New York University",
+    "usnews_link": "https://www.usnews.com/best-colleges/nyu-2785",
+    "school_website": "http://www.nyu.edu/"
+  },
+  {
+    "rank": 41,
+    "name": "The Ohio State University",
+    "usnews_link": "https://www.usnews.com/best-colleges/ohio-state-6883",
+    "school_website": "https://http//www.osu.edu"
+  },
+  {
+    "rank": 42,
+    "name": "University of Georgia",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-georgia-1598",
+    "school_website": "https://www.uga.edu/"
+  },
+  {
+    "rank": 43,
+    "name": "University of Rochester",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-rochester-2894",
+    "school_website": "https://www.rochester.edu/"
+  },
+  {
+    "rank": 44,
+    "name": "Case Western Reserve University",
+    "usnews_link": "https://www.usnews.com/best-colleges/case-western-reserve-university-3024",
+    "school_website": "Not found"
+  },
+  {
+    "rank": 45,
+    "name": "Florida State University",
+    "usnews_link": "https://www.usnews.com/best-colleges/florida-state-university-1489",
+    "school_website": "http://www.fsu.edu/"
+  },
+  {
+    "rank": 46,
+    "name": "Virginia Tech",
+    "usnews_link": "https://www.usnews.com/best-colleges/virginia-tech-3754",
+    "school_website": "https://www.vt.edu/"
+  },
+  {
+    "rank": 47,
+    "name": "Wake Forest University",
+    "usnews_link": "https://www.usnews.com/best-colleges/wake-forest-2978",
+    "school_website": "Error"
+  },
+  {
+    "rank": 48,
+    "name": "William & Mary",
+    "usnews_link": "https://www.usnews.com/best-colleges/william-and-mary-3705",
+    "school_website": "https://www.wm.edu/"
+  },
+  {
+    "rank": 49,
+    "name": "University of California, Merced",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-california-merced-4127",
+    "school_website": "http://www.ucmerced.edu/"
+  },
+  {
+    "rank": 50,
+    "name": "Villanova University",
+    "usnews_link": "https://www.usnews.com/best-colleges/villanova-3388",
+    "school_website": "http://www.villanova.edu/"
+  },
+  {
+    "rank": 51,
+    "name": "George Washington University",
+    "usnews_link": "https://www.usnews.com/best-colleges/george-washington-university-1444",
+    "school_website": "https://www.gwu.edu/"
+  },
+  {
+    "rank": 52,
+    "name": "The Pennsylvania State University--University Park",
+    "usnews_link": "https://www.usnews.com/best-colleges/penn-state-6965",
+    "school_website": "https://www.psu.edu/"
+  },
+  {
+    "rank": 53,
+    "name": "Santa Clara University",
+    "usnews_link": "https://www.usnews.com/best-colleges/santa-clara-university-1326",
+    "school_website": "https://www.scu.edu/"
+  },
+  {
+    "rank": 54,
+    "name": "Stony Brook University--SUNY",
+    "usnews_link": "https://www.usnews.com/best-colleges/stony-brook-suny-2838",
+    "school_website": "http://www.stonybrook.edu/"
+  },
+  {
+    "rank": 55,
+    "name": "University of Minnesota--Twin Cities",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-minnesota-twin-cities-3969",
+    "school_website": "https://twin-cities.umn.edu/"
+  },
+  {
+    "rank": 56,
+    "name": "Michigan State University",
+    "usnews_link": "https://www.usnews.com/best-colleges/michigan-state-2290",
+    "school_website": "https://www.msu.edu/"
+  },
+  {
+    "rank": 57,
+    "name": "North Carolina State University",
+    "usnews_link": "https://www.usnews.com/best-colleges/north-carolina-state-raleigh-2972",
+    "school_website": "https://www.ncsu.edu/"
+  },
+  {
+    "rank": 58,
+    "name": "Rensselaer Polytechnic Institute",
+    "usnews_link": "https://www.usnews.com/best-colleges/rpi-2803",
+    "school_website": "https://www.rpi.edu/"
+  },
+  {
+    "rank": 59,
+    "name": "University of Massachusetts--Amherst",
+    "usnews_link": "https://www.usnews.com/best-colleges/umass-amherst-2221",
+    "school_website": "http://www.umass.edu/"
+  },
+  {
+    "rank": 60,
+    "name": "University of Miami",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-miami-1536",
+    "school_website": "https://www.miami.edu/"
+  },
+  {
+    "rank": 61,
+    "name": "Brandeis University",
+    "usnews_link": "https://www.usnews.com/best-colleges/brandeis-university-2133",
+    "school_website": "http://www.brandeis.edu/"
+  },
+  {
+    "rank": 62,
+    "name": "Tulane University of Louisiana",
+    "usnews_link": "https://www.usnews.com/best-colleges/tulane-university-of-louisiana-2029",
+    "school_website": "https://tulane.edu/"
+  },
+  {
+    "rank": 63,
+    "name": "University of Pittsburgh",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-pittsburgh-3379",
+    "school_website": "http://www.pitt.edu/"
+  },
+  {
+    "rank": 64,
+    "name": "University at Buffalo--SUNY",
+    "usnews_link": "https://www.usnews.com/best-colleges/ub-9554",
+    "school_website": "https://buffalo.edu/"
+  },
+  {
+    "rank": 65,
+    "name": "University of California, Riverside",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-california-riverside-1316",
+    "school_website": "https://www.ucr.edu/"
+  },
+  {
+    "rank": 66,
+    "name": "Colorado School of Mines",
+    "usnews_link": "https://www.usnews.com/best-colleges/colorado-school-of-mines-1348",
+    "school_website": "http://www.mines.edu/"
+  },
+  {
+    "rank": 67,
+    "name": "Binghamton University--SUNY",
+    "usnews_link": "https://www.usnews.com/best-colleges/suny-binghamton-2836",
+    "school_website": "http://www.binghamton.edu/"
+  },
+  {
+    "rank": 68,
+    "name": "Indiana University--Bloomington",
+    "usnews_link": "https://www.usnews.com/best-colleges/indiana-university-bloomington-1809",
+    "school_website": "https://bloomington.iu.edu/"
+  },
+  {
+    "rank": 69,
+    "name": "Clemson University",
+    "usnews_link": "https://www.usnews.com/best-colleges/clemson-university-3425",
+    "school_website": "http://www.clemson.edu/"
+  },
+  {
+    "rank": 70,
+    "name": "Rutgers University--Newark",
+    "usnews_link": "https://www.usnews.com/best-colleges/rutgers-university-newark-2631",
+    "school_website": "https://www.newark.rutgers.edu/"
+  },
+  {
+    "rank": 71,
+    "name": "Syracuse University",
+    "usnews_link": "https://www.usnews.com/best-colleges/syracuse-university-2882",
+    "school_website": "https://www.syracuse.edu/"
+  },
+  {
+    "rank": 72,
+    "name": "Drexel University",
+    "usnews_link": "https://www.usnews.com/best-colleges/drexel-university-3256",
+    "school_website": "http://www.drexel.edu/"
+  },
+  {
+    "rank": 73,
+    "name": "New Jersey Institute of Technology",
+    "usnews_link": "https://www.usnews.com/best-colleges/njit-2621",
+    "school_website": "https://www.njit.edu/"
+  },
+  {
+    "rank": 74,
+    "name": "Stevens Institute of Technology",
+    "usnews_link": "https://www.usnews.com/best-colleges/stevens-institute-of-technology-2639",
+    "school_website": "https://http//www.stevens.edu/"
+  },
+  {
+    "rank": 75,
+    "name": "Pepperdine University",
+    "usnews_link": "https://www.usnews.com/best-colleges/pepperdine-university-1264",
+    "school_website": "https://www.pepperdine.edu/"
+  },
+  {
+    "rank": 76,
+    "name": "University of Illinois Chicago",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-illinois-chicago-1776",
+    "school_website": "http://www.uic.edu/"
+  },
+  {
+    "rank": 77,
+    "name": "Worcester Polytechnic Institute",
+    "usnews_link": "https://www.usnews.com/best-colleges/wpi-2233",
+    "school_website": "https://www.wpi.edu/"
+  },
+  {
+    "rank": 78,
+    "name": "Yeshiva University",
+    "usnews_link": "https://www.usnews.com/best-colleges/yeshiva-university-2903",
+    "school_website": "http://www.yu.edu/"
+  },
+  {
+    "rank": 79,
+    "name": "American University",
+    "usnews_link": "https://www.usnews.com/best-colleges/american-university-1434",
+    "school_website": "https://www.american.edu/"
+  },
+  {
+    "rank": 80,
+    "name": "Baylor University",
+    "usnews_link": "https://www.usnews.com/best-colleges/baylor-university-6967",
+    "school_website": "http://www.baylor.edu/"
+  },
+  {
+    "rank": 81,
+    "name": "Howard University",
+    "usnews_link": "https://www.usnews.com/best-colleges/howard-university-1448",
+    "school_website": "https://howard.edu/"
+  },
+  {
+    "rank": 82,
+    "name": "Florida International University",
+    "usnews_link": "https://www.usnews.com/best-colleges/fiu-9635",
+    "school_website": "http://www.fiu.edu/"
+  },
+  {
+    "rank": 83,
+    "name": "Fordham University",
+    "usnews_link": "https://www.usnews.com/best-colleges/fordham-university-2722",
+    "school_website": "http://www.fordham.edu/"
+  },
+  {
+    "rank": 84,
+    "name": "Rutgers University--Camden",
+    "usnews_link": "https://www.usnews.com/best-colleges/rutgers-university-camden-4741",
+    "school_website": "https://http//www.camden.rutgers.edu"
+  },
+  {
+    "rank": 85,
+    "name": "Texas Christian University",
+    "usnews_link": "https://www.usnews.com/best-colleges/texas-christian-university-3636",
+    "school_website": "http://www.tcu.edu/"
+  },
+  {
+    "rank": 86,
+    "name": "University of Colorado Boulder",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-colorado-boulder-1370",
+    "school_website": "https://www.colorado.edu/"
+  },
+  {
+    "rank": 87,
+    "name": "Auburn University",
+    "usnews_link": "https://www.usnews.com/best-colleges/auburn-university-1009",
+    "school_website": "http://www.auburn.edu/"
+  },
+  {
+    "rank": 88,
+    "name": "Gonzaga University",
+    "usnews_link": "https://www.usnews.com/best-colleges/gonzaga-university-3778",
+    "school_website": "https://www.gonzaga.edu/"
+  },
+  {
+    "rank": 89,
+    "name": "Saint Louis University",
+    "usnews_link": "https://www.usnews.com/best-colleges/saint-louis-university-2506",
+    "school_website": "http://www.slu.edu/"
+  },
+  {
+    "rank": 90,
+    "name": "Temple University",
+    "usnews_link": "https://www.usnews.com/best-colleges/temple-university-3371",
+    "school_website": "http://www.temple.edu/"
+  },
+  {
+    "rank": 91,
+    "name": "University of Iowa",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-iowa-1892",
+    "school_website": "http://www.uiowa.edu/"
+  },
+  {
+    "rank": 92,
+    "name": "University of Missouri",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-missouri-2516",
+    "school_website": "http://www.missouri.edu/"
+  },
+  {
+    "rank": 93,
+    "name": "University of Tennessee--Knoxville",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-tennessee-knoxville-3530",
+    "school_website": "http://utk.edu/"
+  },
+  {
+    "rank": 94,
+    "name": "Brigham Young University",
+    "usnews_link": "https://www.usnews.com/best-colleges/byu-3670",
+    "school_website": "http://www.byu.edu/"
+  },
+  {
+    "rank": 95,
+    "name": "Chapman University",
+    "usnews_link": "https://www.usnews.com/best-colleges/chapman-university-1164",
+    "school_website": "https://www.chapman.edu/"
+  },
+  {
+    "rank": 96,
+    "name": "The University of Oklahoma",
+    "usnews_link": "https://www.usnews.com/best-colleges/the-university-of-oklahoma-3184",
+    "school_website": "http://www.ou.edu/"
+  },
+  {
+    "rank": 97,
+    "name": "University of Oregon",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-oregon-3223",
+    "school_website": "https://www.uoregon.edu/"
+  },
+  {
+    "rank": 98,
+    "name": "University of San Francisco",
+    "usnews_link": "https://www.usnews.com/best-colleges/university-of-san-francisco-1325",
+    "school_website": "https://www.usfca.edu/"
+  },
+  {
+    "rank": 99,
+    "name": "The University of Texas--Dallas",
+    "usnews_link": "https://www.usnews.com/best-colleges/the-university-of-texas-dallas-9741",
+    "school_website": "https://www.utdallas.edu/"
+  },
+  {
+    "rank": 100,
+    "name": "Arizona State University",
+    "usnews_link": "https://www.usnews.com/best-colleges/arizona-state-university-1081",
+    "school_website": "https://www.asu.edu/"
+  }
+]

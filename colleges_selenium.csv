@@ -1,0 +1,101 @@
+rank,name,usnews_link,school_website
+1,Princeton University,https://www.usnews.com/best-colleges/princeton-university-2627,http://www.princeton.edu/
+2,Massachusetts Institute of Technology,https://www.usnews.com/best-colleges/massachusetts-institute-of-technology-2178,http://web.mit.edu/
+3,Harvard University,https://www.usnews.com/best-colleges/harvard-university-2155,http://www.harvard.edu/
+4,Stanford University,https://www.usnews.com/best-colleges/stanford-university-1305,http://www.stanford.edu/
+5,Yale University,https://www.usnews.com/best-colleges/yale-university-1426,https://www.yale.edu/
+6,University of Chicago,https://www.usnews.com/best-colleges/university-of-chicago-1774,http://www.uchicago.edu/
+7,Duke University,https://www.usnews.com/best-colleges/duke-university-2920,http://www.duke.edu/
+8,Johns Hopkins University,https://www.usnews.com/best-colleges/jhu-2077,http://www.jhu.edu/
+9,Northwestern University,https://www.usnews.com/best-colleges/northwestern-university-1739,http://www.northwestern.edu/
+10,University of Pennsylvania,https://www.usnews.com/best-colleges/university-of-pennsylvania-3378,http://www.upenn.edu/
+11,California Institute of Technology,https://www.usnews.com/best-colleges/california-institute-of-technology-1131,https://www.caltech.edu/
+12,Cornell University,https://www.usnews.com/best-colleges/cornell-university-2711,http://www.cornell.edu/
+13,Brown University,https://www.usnews.com/best-colleges/brown-university-3401,https://www.brown.edu/
+14,Dartmouth College,https://www.usnews.com/best-colleges/dartmouth-college-2573,http://www.dartmouth.edu/
+15,Columbia University,https://www.usnews.com/best-colleges/columbia-university-2707,http://www.columbia.edu/
+16,"University of California, Berkeley",https://www.usnews.com/best-colleges/university-of-california-berkeley-1312,https://www.berkeley.edu/
+17,Rice University,https://www.usnews.com/best-colleges/rice-3604,http://www.rice.edu/
+18,"University of California, Los Angeles",https://www.usnews.com/best-colleges/ucla-1315,http://www.ucla.edu/
+19,Vanderbilt University,https://www.usnews.com/best-colleges/vanderbilt-3535,http://www.vanderbilt.edu/
+20,Carnegie Mellon University,https://www.usnews.com/best-colleges/carnegie-mellon-university-3242,http://www.cmu.edu/
+21,University of Michigan--Ann Arbor,https://www.usnews.com/best-colleges/university-of-michigan-ann-arbor-9092,https://umich.edu/
+22,University of Notre Dame,https://www.usnews.com/best-colleges/university-of-notre-dame-1840,http://www.nd.edu/
+23,Washington University in St. Louis,https://www.usnews.com/best-colleges/washington-university-in-st-louis-2520,https://washu.edu/
+24,Emory University,https://www.usnews.com/best-colleges/emory-university-1564,http://www.emory.edu/
+25,Georgetown University,https://www.usnews.com/best-colleges/georgetown-university-1445,http://www.georgetown.edu/
+26,University of North Carolina--Chapel Hill,https://www.usnews.com/best-colleges/university-of-north-carolina-chapel-hill-2974,Error
+27,University of Virginia,https://www.usnews.com/best-colleges/uva-6968,http://www.virginia.edu/
+28,University of Southern California,https://www.usnews.com/best-colleges/university-of-southern-california-1328,Not found
+29,University of California San Diego,https://www.usnews.com/best-colleges/university-of-california-san-diego-1317,http://www.ucsd.edu/
+30,University of Florida,https://www.usnews.com/best-colleges/university-of-florida-1535,https://www.ufl.edu/
+31,"University of California, Davis",https://www.usnews.com/best-colleges/university-of-california-davis-1313,http://www.ucdavis.edu/
+32,"University of California, Irvine",https://www.usnews.com/best-colleges/university-of-california-irvine-1314,http://www.uci.edu/
+33,Boston College,https://www.usnews.com/best-colleges/boston-college-2128,http://www.bc.edu/
+34,Tufts University,https://www.usnews.com/best-colleges/tufts-university-2219,https://www.tufts.edu/
+35,University of Illinois Urbana-Champaign,https://www.usnews.com/best-colleges/university-of-illinois-urbanachampaign-1775,https://illinois.edu/
+36,University of Wisconsin--Madison,https://www.usnews.com/best-colleges/university-of-wisconsin-3895,http://www.wisc.edu/
+37,"University of California, Santa Barbara",https://www.usnews.com/best-colleges/university-of-california-santa-barbara-1320,https://www.ucsb.edu/
+38,The University of Texas--Austin,https://www.usnews.com/best-colleges/the-university-of-texas-austin-3658,Error
+39,Georgia Institute of Technology,https://www.usnews.com/best-colleges/georgia-institute-of-technology-1569,Not found
+40,New York University,https://www.usnews.com/best-colleges/nyu-2785,http://www.nyu.edu/
+41,The Ohio State University,https://www.usnews.com/best-colleges/ohio-state-6883,https://http//www.osu.edu
+42,University of Georgia,https://www.usnews.com/best-colleges/university-of-georgia-1598,https://www.uga.edu/
+43,University of Rochester,https://www.usnews.com/best-colleges/university-of-rochester-2894,https://www.rochester.edu/
+44,Case Western Reserve University,https://www.usnews.com/best-colleges/case-western-reserve-university-3024,Not found
+45,Florida State University,https://www.usnews.com/best-colleges/florida-state-university-1489,http://www.fsu.edu/
+46,Virginia Tech,https://www.usnews.com/best-colleges/virginia-tech-3754,https://www.vt.edu/
+47,Wake Forest University,https://www.usnews.com/best-colleges/wake-forest-2978,Error
+48,William & Mary,https://www.usnews.com/best-colleges/william-and-mary-3705,https://www.wm.edu/
+49,"University of California, Merced",https://www.usnews.com/best-colleges/university-of-california-merced-4127,http://www.ucmerced.edu/
+50,Villanova University,https://www.usnews.com/best-colleges/villanova-3388,http://www.villanova.edu/
+51,George Washington University,https://www.usnews.com/best-colleges/george-washington-university-1444,https://www.gwu.edu/
+52,The Pennsylvania State University--University Park,https://www.usnews.com/best-colleges/penn-state-6965,https://www.psu.edu/
+53,Santa Clara University,https://www.usnews.com/best-colleges/santa-clara-university-1326,https://www.scu.edu/
+54,Stony Brook University--SUNY,https://www.usnews.com/best-colleges/stony-brook-suny-2838,http://www.stonybrook.edu/
+55,University of Minnesota--Twin Cities,https://www.usnews.com/best-colleges/university-of-minnesota-twin-cities-3969,https://twin-cities.umn.edu/
+56,Michigan State University,https://www.usnews.com/best-colleges/michigan-state-2290,https://www.msu.edu/
+57,North Carolina State University,https://www.usnews.com/best-colleges/north-carolina-state-raleigh-2972,https://www.ncsu.edu/
+58,Rensselaer Polytechnic Institute,https://www.usnews.com/best-colleges/rpi-2803,https://www.rpi.edu/
+59,University of Massachusetts--Amherst,https://www.usnews.com/best-colleges/umass-amherst-2221,http://www.umass.edu/
+60,University of Miami,https://www.usnews.com/best-colleges/university-of-miami-1536,https://www.miami.edu/
+61,Brandeis University,https://www.usnews.com/best-colleges/brandeis-university-2133,http://www.brandeis.edu/
+62,Tulane University of Louisiana,https://www.usnews.com/best-colleges/tulane-university-of-louisiana-2029,https://tulane.edu/
+63,University of Pittsburgh,https://www.usnews.com/best-colleges/university-of-pittsburgh-3379,http://www.pitt.edu/
+64,University at Buffalo--SUNY,https://www.usnews.com/best-colleges/ub-9554,https://buffalo.edu/
+65,"University of California, Riverside",https://www.usnews.com/best-colleges/university-of-california-riverside-1316,https://www.ucr.edu/
+66,Colorado School of Mines,https://www.usnews.com/best-colleges/colorado-school-of-mines-1348,http://www.mines.edu/
+67,Binghamton University--SUNY,https://www.usnews.com/best-colleges/suny-binghamton-2836,http://www.binghamton.edu/
+68,Indiana University--Bloomington,https://www.usnews.com/best-colleges/indiana-university-bloomington-1809,https://bloomington.iu.edu/
+69,Clemson University,https://www.usnews.com/best-colleges/clemson-university-3425,http://www.clemson.edu/
+70,Rutgers University--Newark,https://www.usnews.com/best-colleges/rutgers-university-newark-2631,https://www.newark.rutgers.edu/
+71,Syracuse University,https://www.usnews.com/best-colleges/syracuse-university-2882,https://www.syracuse.edu/
+72,Drexel University,https://www.usnews.com/best-colleges/drexel-university-3256,http://www.drexel.edu/
+73,New Jersey Institute of Technology,https://www.usnews.com/best-colleges/njit-2621,https://www.njit.edu/
+74,Stevens Institute of Technology,https://www.usnews.com/best-colleges/stevens-institute-of-technology-2639,https://http//www.stevens.edu/
+75,Pepperdine University,https://www.usnews.com/best-colleges/pepperdine-university-1264,https://www.pepperdine.edu/
+76,University of Illinois Chicago,https://www.usnews.com/best-colleges/university-of-illinois-chicago-1776,http://www.uic.edu/
+77,Worcester Polytechnic Institute,https://www.usnews.com/best-colleges/wpi-2233,https://www.wpi.edu/
+78,Yeshiva University,https://www.usnews.com/best-colleges/yeshiva-university-2903,http://www.yu.edu/
+79,American University,https://www.usnews.com/best-colleges/american-university-1434,https://www.american.edu/
+80,Baylor University,https://www.usnews.com/best-colleges/baylor-university-6967,http://www.baylor.edu/
+81,Howard University,https://www.usnews.com/best-colleges/howard-university-1448,https://howard.edu/
+82,Florida International University,https://www.usnews.com/best-colleges/fiu-9635,http://www.fiu.edu/
+83,Fordham University,https://www.usnews.com/best-colleges/fordham-university-2722,http://www.fordham.edu/
+84,Rutgers University--Camden,https://www.usnews.com/best-colleges/rutgers-university-camden-4741,https://http//www.camden.rutgers.edu
+85,Texas Christian University,https://www.usnews.com/best-colleges/texas-christian-university-3636,http://www.tcu.edu/
+86,University of Colorado Boulder,https://www.usnews.com/best-colleges/university-of-colorado-boulder-1370,https://www.colorado.edu/
+87,Auburn University,https://www.usnews.com/best-colleges/auburn-university-1009,http://www.auburn.edu/
+88,Gonzaga University,https://www.usnews.com/best-colleges/gonzaga-university-3778,https://www.gonzaga.edu/
+89,Saint Louis University,https://www.usnews.com/best-colleges/saint-louis-university-2506,http://www.slu.edu/
+90,Temple University,https://www.usnews.com/best-colleges/temple-university-3371,http://www.temple.edu/
+91,University of Iowa,https://www.usnews.com/best-colleges/university-of-iowa-1892,http://www.uiowa.edu/
+92,University of Missouri,https://www.usnews.com/best-colleges/university-of-missouri-2516,http://www.missouri.edu/
+93,University of Tennessee--Knoxville,https://www.usnews.com/best-colleges/university-of-tennessee-knoxville-3530,http://utk.edu/
+94,Brigham Young University,https://www.usnews.com/best-colleges/byu-3670,http://www.byu.edu/
+95,Chapman University,https://www.usnews.com/best-colleges/chapman-university-1164,https://www.chapman.edu/
+96,The University of Oklahoma,https://www.usnews.com/best-colleges/the-university-of-oklahoma-3184,http://www.ou.edu/
+97,University of Oregon,https://www.usnews.com/best-colleges/university-of-oregon-3223,https://www.uoregon.edu/
+98,University of San Francisco,https://www.usnews.com/best-colleges/university-of-san-francisco-1325,https://www.usfca.edu/
+99,The University of Texas--Dallas,https://www.usnews.com/best-colleges/the-university-of-texas-dallas-9741,https://www.utdallas.edu/
+100,Arizona State University,https://www.usnews.com/best-colleges/arizona-state-university-1081,https://www.asu.edu/
